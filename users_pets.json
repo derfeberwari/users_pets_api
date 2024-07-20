@@ -5,22 +5,20 @@
     "id": 1,
     "logo":"https://shorturl.at/ht50e",
     "a":false
-  },
-
- {
-    "id": 2,
-   "film1":"https://shorturl.at/Bt5SB",
- "a":false
-  },
-    {
-    "id": 3,
-   "film2":"https://shorturl.at/tBtsj",
- "a":false
-  },
-    {
-    "id": 4,
-   "film3":"https://shorturl.at/Bt5SB",
- "a":true
   }
+ ]
+}
+
+
+{
+  "wene1":
+ [
+  {
+    "id": 1,
+ "film1":"https://shorturl.at/Bt5SB",
+    "a":false
+  }
+
+
  ]
 }
