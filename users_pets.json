@@ -3,12 +3,13 @@
  [
   {
     "id": 1,
-    "logo":"https://shorturl.at/ht50e"
+    "logo":"https://shorturl.at/ht50e",
+    "a":false
   },
 
  {
     "id": 2,
- 
+ "a":false
   }
  ]
 }
